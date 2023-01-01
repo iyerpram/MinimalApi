@@ -7,7 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FE052EC5-116
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{358A7B91-E018-4598-A58D-652FD7CDCB20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApi.Web", "src\MinimalApi.Web\MinimalApi.Web.csproj", "{1C0CF1C6-1FF1-4F2F-8DFE-DC60C99B76F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalApi.Web", "src\MinimalApi.Web\MinimalApi.Web.csproj", "{1C0CF1C6-1FF1-4F2F-8DFE-DC60C99B76F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApi.Test", "MinimalApi.Test\MinimalApi.Test.csproj", "{60327963-25F5-468C-A26C-FCD7703CFFB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,12 +21,17 @@ Global
 		{1C0CF1C6-1FF1-4F2F-8DFE-DC60C99B76F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C0CF1C6-1FF1-4F2F-8DFE-DC60C99B76F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C0CF1C6-1FF1-4F2F-8DFE-DC60C99B76F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60327963-25F5-468C-A26C-FCD7703CFFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60327963-25F5-468C-A26C-FCD7703CFFB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60327963-25F5-468C-A26C-FCD7703CFFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60327963-25F5-468C-A26C-FCD7703CFFB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1C0CF1C6-1FF1-4F2F-8DFE-DC60C99B76F3} = {FE052EC5-1168-4D51-A8F9-7706332D9BD8}
+		{60327963-25F5-468C-A26C-FCD7703CFFB9} = {358A7B91-E018-4598-A58D-652FD7CDCB20}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E762EA4-ACBB-430C-BD25-0F44D318E395}
