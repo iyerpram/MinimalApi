@@ -1,4 +1,6 @@
-﻿namespace MinimalApi.Web.Features.Weather
+﻿using MinimalApi.Web.Features.Weather.Models;
+
+namespace MinimalApi.Web.Features.Weather
 {
     public class EndpointBehaviour
     {
