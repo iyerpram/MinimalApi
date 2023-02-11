@@ -4,5 +4,5 @@
 *.config
 *.suo
 *.2
-/MinimalApi.Test/obj/
-/src/MinimalApi.Web/bin/
+obj/
+bin/

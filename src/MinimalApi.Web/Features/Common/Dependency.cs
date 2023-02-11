@@ -1,5 +1,4 @@
-﻿using MinimalApi.Web.Features.Weather;
-using WeatherApi = MinimalApi.Web.Features.Weather;
+﻿using WeatherApi = MinimalApi.Web.Features.Weather;
 
 namespace MinimalApi.Web.Features.Common
 {

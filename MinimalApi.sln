@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{358A7B91
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalApi.Web", "src\MinimalApi.Web\MinimalApi.Web.csproj", "{1C0CF1C6-1FF1-4F2F-8DFE-DC60C99B76F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApi.Test", "MinimalApi.Test\MinimalApi.Test.csproj", "{60327963-25F5-468C-A26C-FCD7703CFFB9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApi.Test", "tests\MinimalApi.Test\MinimalApi.Test.csproj", "{60327963-25F5-468C-A26C-FCD7703CFFB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
